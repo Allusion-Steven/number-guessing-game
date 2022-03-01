@@ -1,0 +1,26 @@
+h1, h2 {
+  font-family: Lato;
+}
+.hide{
+  display: none;
+}
+.show {
+  display: block;
+}
+button{
+
+  text-align: center;
+  width: auto;
+}
+.ui{
+  width: auto;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.ui-number{
+
+}
+.play-area{
+  width: 100%;
+}
